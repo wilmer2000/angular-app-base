@@ -1,4 +1,13 @@
-# base
+# Angular App Base
+
+Angular App base with some packages pre-installed and pre-configured to start to develop ASAP.
+```Javascript
+immer
+postcss
+tailwindcss
+eslint
+prettier
+```
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.1.
 
